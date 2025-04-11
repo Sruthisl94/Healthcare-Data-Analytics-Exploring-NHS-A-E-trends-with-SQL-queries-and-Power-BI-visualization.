@@ -46,7 +46,7 @@ To bring the numbers to life, I designed an interactive dashboard featuring:
 
 ### Power BI Dashboard
 
-[NHS_Heathcare_dashborad.png]
+[NHS_Healthcare_dashborad.png]
 
 
 
