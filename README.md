@@ -1,12 +1,12 @@
 # Healthcare-Data-Analytics-Exploring-NHS-A-E-trends-with-SQL-queries-and-Power-BI-visualization.
-## Objective:<b>
+## Objective:<br>
 This project aims to analyze NHS A&E (Accident and Emergency) data from 2018 to 2025 to identify the trends in the A&E admission, examining the underperforming hospitals fail to meet the taget 4 hour wait time and to understand the increasing demmand of emrgency serivices through key techniques of data analysis.<br>
 
-### Dataset <b>
+### Dataset <br>
 The data used in this project was sourced from the official NHS England statistics on A&E waiting times and activity. This dataset provides monthly and weekly figures, including details such as total attendances, waiting times under and over 4 hours, emergency admissions, Number of patients spending greater than 4hour or 12 hour from from descision to admission.<br>
 📎[NHS A&e Monthly Dataset](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/) <br>
 
-## Tools:<b>
+## Tools:<br>
 •	Python– To organize the collected data and connect it to SQL.<br>
 •	 SQL (MySQL) – For querying, cleaning, and aggregating hospital-level data. <br>
 •	Power BI – For building dynamic visualizations, KPIs, and dashboards.<br>
