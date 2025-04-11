@@ -3,7 +3,7 @@
 This project aims to analyze NHS A&E (Accident and Emergency) data from 2018 to 2025 to identify the trends in the A&E admission, examining the underperforming hospitals fail to meet the taget 4 hour wait time and to understand the increasing demmand of emrgency serivices through key techniques of data analysis.
 
 ### Dataset <b>
-The data used in this project was sourced from the official NHS England statistics on A&E waiting times and activity. This dataset provides monthly and weekly figures, including details such as total attendances, waiting times under and over 4 hours, emergency admissions, Number of patients spending greater than 4hour or 12 hour from from descision to admission.
+The data used in this project was sourced from the official NHS England statistics on A&E waiting times and activity. This dataset provides monthly and weekly figures, including details such as total attendances, waiting times under and over 4 hours, emergency admissions, Number of patients spending greater than 4hour or 12 hour from from descision to admission.\
 📎[NHS A&e Monthly Dataset](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)
 
 ## Tools:<b>
@@ -46,7 +46,7 @@ To bring the numbers to life, I designed an interactive dashboard featuring:
 
 ### Power BI Dashboard
 
-[
+[NHS_Heathcare_dashborad.png]
 
 
 
