@@ -46,7 +46,7 @@ To bring the numbers to life, I designed an interactive dashboard featuring:
 
 ### Power BI Dashboard
 
-![NHS A&E Data Aanalysis Dashboard](NHS_Healthcare_dashborad.png)
+![NHS A&E Data Aanalysis Dashboard](NHS_Healthcare_dashboard.png)
 
 ## Insights & Observations
    • The 4-hour target has been consistently missed by many providers since 2019.
