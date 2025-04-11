@@ -46,26 +46,15 @@ To bring the numbers to life, I designed an interactive dashboard featuring:
 
 ### Power BI Dashboard
 
-[NHS_Healthcare_dashborad.png]
+![NHS A&E Data Aanalysis Dashboard](NHS_Healthcare_dashborad.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Insights & Observations
-•	 The 4-hour target has been consistently missed by many providers since 2019.
-•	There is a steady increase in the number of patients waiting more than 4 and 12 hours, particularly noticeable during 2019–2020. The performance dips correlate closely with COVID-19 peaks and peak demand periods.
-•	At the national level, the 95% standard has not been met on an annual basis since 2018, although it has been achieved in certain individual months by certain providers.
-•	Although the number of patients facing long waits has recently decreased, the overall average still remains below the 95% target, highlighting continued challenges in consistently meeting the standard.
-•	There has been an increase in A&E attendance, reflecting growing demand on emergency services. 
+## Insights & Observations
+   • The 4-hour target has been consistently missed by many providers since 2019.
+   • There is a steady increase in the number of patients waiting more than 4 and 12 hours, particularly noticeable during 2019–2020.\
+   The performance dips correlate closely with COVID-19 peaks and peak demand periods.
+   • At the national level, the 95% standard has not been met on an annual basis since 2018, although it has been achieved in certain individual months by certain providers.
+   • Although the number of patients facing long waits has recently decreased, the overall average still remains below the 95% target, highlighting continued challenges in consistently 
+     meeting the standard.
+   • There has been an increase in A&E attendance, reflecting growing demand on emergency services. 
 
 
